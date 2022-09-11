@@ -1,3 +1,4 @@
 HEADER
 text file
 second line
+3
